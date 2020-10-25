@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://betanews.com/wp-content/uploads/2018/06/gifs-on-cli.gif">
+
+### Hi there, I'm Arif 👋
 
 Here are some ideas to get you started:
 
