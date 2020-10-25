@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-[twitter] = https://twitter.com/arifian_nur
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arifian_nur?style=social">
+[twitter] = https://twitter.com/intent/follow?screen_name=arifian_nur
 
 <!--
 **nurfiansyah06/nurfiansyah06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
