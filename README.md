@@ -4,6 +4,9 @@
 
 Here are some ideas to get you started:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurfiansyah06&layout=compact)](https://github.com/nurfiansyah06/nurfiansyah06/README.md)
+
+
 - 🌱 I’m currently learning Laravel, Golang, Javascript and more programming languange
 - ⚡ Fun fact: i always eating mendoan
 
